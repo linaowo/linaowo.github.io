@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Paulina De La Fuente",
   location: "V Región, Chile",
-  email: "linaowo@gmail.com",
+  email: "paulinadelafuented@hotmail.com",
   github: "https://github.com/linaowo",
   linkedin: "https://www.linkedin.com/in/paulina-d-44bb4819b/",
   profilePicture: "/profileteam.jpg",
